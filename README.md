@@ -1,6 +1,10 @@
 # BigData-InfantMortality
 BigData Project for Fall 2017 on United Nations SDG 3 - Good health and well being
 
+### Purpose
+Q1. Can we predict the risk of an infant's death given the data?
+Q2. If such a risk is predicted, can we figure out similar cases in the past, to enable medical practioners reference these cases for treatment.
+
 ### Artifacts
 Code: IPYNB notebooks for various ML classifers, Similarity Search and Clustering. File name clearly mentions the methodology.
 Results: HTML reports generated off the IPYNB notebooks for the 5GB run.
